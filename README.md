@@ -1,9 +1,11 @@
 # AndroidAmorcage
-A bootstrap for android application using event
+
+A [WIP] bootstrap for building android application using event and realm. 
 
 
-Contribution
-------------
+TODO
+----
+- Cli for generating project
 
 Contribution
 ------------
