@@ -2,6 +2,7 @@
 
 A [WIP] bootstrap for building android application using event and realm. 
 
+Based on [Matt Swanson Durable Android REST Clients](http://www.mdswanson.com/blog/2014/04/07/durable-android-rest-clients.html)
 
 TODO
 ----
