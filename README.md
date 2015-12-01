@@ -1,6 +1,6 @@
-# AndroidAmorcage
+# Android Amorcage
 
-A [WIP] bootstrap for building android application using event and realm. 
+A [WIP] bootstrap/skeleton for building android application using event and realm. 
 
 Based on [Matt Swanson Durable Android REST Clients](http://www.mdswanson.com/blog/2014/04/07/durable-android-rest-clients.html)
 

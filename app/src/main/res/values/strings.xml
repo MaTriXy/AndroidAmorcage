@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">AndroidAmorcage</string>
+
+    <string name="loading">loading</string>
+
     <string name="action_settings">Settings</string>
+
+    <string name="bill_user_imagedesc">User avatar</string>
+
+
+    <string name="note_data_allloaded">All notes loaded</string>
 </resources>

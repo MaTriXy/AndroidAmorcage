@@ -10,6 +10,7 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
+        archivesBaseName = "AndroidAmorcage-sample-" + versionName
     }
     buildTypes {
         release {
@@ -28,7 +29,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.0.1'
     compile 'com.android.support:design:23.0.1'
-
+    compile 'com.android.support:recyclerview-v7:23.0.1'
 
     // Network
     compile 'com.squareup.okhttp:okhttp:2.4.0'
@@ -43,4 +44,5 @@ dependencies {
 
     // View tools
     compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.facebook.fresco:fresco:0.7.0'
 }
